@@ -7,7 +7,7 @@
  * Return: 0
  */
 
-int wildcmp(const char* s1, const char* s2)
+int wildcmp(const char *s1, const char *s2)
 {
 	if (*s1 == '\0')
 	{
